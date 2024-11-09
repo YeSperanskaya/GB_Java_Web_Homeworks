@@ -5,7 +5,6 @@ import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.WebDriverRunner;
 
-
 import homework4.LoginPage;
 import homework4.MainPage;
 import homework4.ProfilePage;
